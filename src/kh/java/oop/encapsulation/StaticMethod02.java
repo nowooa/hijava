@@ -2,7 +2,7 @@ package kh.java.oop.encapsulation;
 
 public class StaticMethod02 {
 
-		/**
+		/*
 		 * 1. 전달한 문자열을 모두 대문자로 바꾸는 static 메소드
 		 * @param value
 		 */
@@ -10,7 +10,7 @@ public class StaticMethod02 {
 			return s.toUpperCase();
 		}
 		
-		/**
+		/*
 		 * 2. 문자열(1)에서 전달받은 인덱스(2)의 문자를 전달받은 문자(3)로 변경하는 static 메소드
 		 * @param str
 		 * @param index
